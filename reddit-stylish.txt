@@ -2,4 +2,9 @@
 .commentarea > .sitetable > .comment {
 	border-color:darkgreen !important;
 }
+
+body {
+	background-color: #eee;
+}
+
 }
