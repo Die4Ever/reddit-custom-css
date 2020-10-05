@@ -3,8 +3,8 @@
 	border-color:darkgreen !important;
 }
 
-body {
-	background-color: #eee;
+body:not(.res-nightmode) {
+    background-color: #eee;
 }
 
 }
